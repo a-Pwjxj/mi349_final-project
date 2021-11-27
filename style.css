@@ -11,7 +11,7 @@ h1 {
 }
 h2 {
     margin: 0;
-    font-weight: 100;
+    font-weight: 100, strong;
 }
 .card {
     background-color: #f3f3f3;
