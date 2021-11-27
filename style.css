@@ -41,3 +41,7 @@ h2 {
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s;
 }
+.ability_icons {
+    width: 128px;
+    height: 128px;
+}
