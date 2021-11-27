@@ -12,6 +12,7 @@ h1 {
 h2 {
     margin: 0;
     font-weight: 100, strong;
+    padding-left: 5px;
 }
 .card {
     background-color: #f3f3f3;
@@ -46,5 +47,5 @@ h2 {
     height: 64px;
 }
 .ability_para {
-    
+
 }
