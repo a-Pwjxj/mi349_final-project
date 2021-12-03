@@ -50,5 +50,5 @@ video {
 }
 
 .site_icons {
-    height: 64px;
+    max-height: 48px;
 }
