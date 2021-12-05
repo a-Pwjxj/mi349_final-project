@@ -52,3 +52,6 @@ video {
 .site_icons {
     max-height: 48px;
 }
+#wiki {
+    max-width: 30px;
+}
