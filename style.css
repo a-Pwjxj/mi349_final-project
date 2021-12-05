@@ -53,8 +53,8 @@ video {
     max-height: 48px;
 }
 #wiki {
-    max-width: 30px;
+    max-width: 100%;
 }
 #tsunami {
-    max-width: 50px;
+    max-width: 100%;
 }
