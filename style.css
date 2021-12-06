@@ -84,4 +84,5 @@ nav {
 }
 .flex-container {
     display: flex;
+    flex: auto;
 }
