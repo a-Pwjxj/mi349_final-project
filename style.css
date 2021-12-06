@@ -82,7 +82,7 @@ nav {
 .site_icons {
     max-width: 100%;
 }
-.flex-container {
+section {
     display: flex;
     flex: auto;
 }
