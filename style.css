@@ -82,3 +82,6 @@ nav {
 .site_icons {
     max-width: 100%;
 }
+.flex-container {
+    display: flex;
+}
