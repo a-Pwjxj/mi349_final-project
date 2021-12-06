@@ -18,8 +18,9 @@ video {
 }
 /* Add a black background color to the top navigation */
 nav {
-    background-color: #333;
+    background-color: #f3f3f3;
     overflow: hidden;
+    margin: 4px 0;
   }
   
   /* Style the links inside the navigation bar */
