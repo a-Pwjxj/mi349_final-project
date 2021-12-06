@@ -17,7 +17,7 @@ video {
     width: 700px;
 }
 /* Add a black background color to the top navigation */
-.topnav {
+nav {
     background-color: #333;
     overflow: hidden;
   }
