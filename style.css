@@ -75,10 +75,10 @@ nav {
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s;
 }
-
-#wiki {
-    max-width: 100%;
+.ability_icons {
+    width: 64px;
+    height: 64px;
 }
-#tsunami {
+.site_icons {
     max-width: 100%;
 }
