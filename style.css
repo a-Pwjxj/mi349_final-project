@@ -16,6 +16,7 @@ h2 {
 video {
     width: 700px;
 }
+
 /* Add a black background color to the top navigation */
 nav {
     background-color: #f3f3f3;
@@ -44,6 +45,8 @@ nav {
     background-color: #04AA6D;
     color: white;
   }
+
+  /* above from link: https://www.w3schools.com/howto/howto_js_topnav.asp */
 .card {
     background-color: #f3f3f3;
     border-radius: 15px;
