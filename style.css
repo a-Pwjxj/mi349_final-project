@@ -72,10 +72,6 @@ nav {
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s;
 }
-.ability_icons {
-    width: 64px;
-    height: 64px;
-}
 
 #wiki {
     max-width: 100%;
