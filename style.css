@@ -90,3 +90,6 @@ footer {
   p {
       padding-right: 14px;
   }
+  a:visited {
+      color:#9231de;
+  }
