@@ -71,7 +71,7 @@ nav {
 section {
     display: flex;
     flex: auto;
-    margin: 20px;
+    padding: 20px;
     background-color: #1c1c1c;
 }
 footer {
