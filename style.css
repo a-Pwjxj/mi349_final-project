@@ -71,7 +71,7 @@ section {
     display: flex;
     flex: auto;
     margin: 20px;
-    background-color: #1c1c1c;
+    /*background-color: #1c1c1c;*/
 }
 footer {
     flex: 0 0 50px; /* keeps the footer at the bottom */
