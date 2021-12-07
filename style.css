@@ -19,10 +19,8 @@ video {
 
 /* Add a black background color to the top navigation */
 nav {
-    position: fixed;
-    left: 0;
-    top: 0;
-    width: 100%;
+    flex: 0 0 50px;
+    margin-bottom: auto;
     background-color: #f3f3f3;
     overflow: hidden;
     padding: 10px;
