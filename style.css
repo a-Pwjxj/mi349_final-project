@@ -32,6 +32,7 @@ nav {
   }
 
   /* above from link: https://www.w3schools.com/howto/howto_js_topnav.asp */
+
 .card {
     background-color: #f3f3f3;
     border-radius: 15px;
@@ -44,7 +45,7 @@ nav {
 }
 .card .avatar {
     width: 80px;
-    border-radius: 80%;
+    /* border-radius: 80%; */
     margin-top: 50px;
 }
 .avatar {
