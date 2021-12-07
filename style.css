@@ -1,7 +1,7 @@
 body {
     background-color: #ccc;
     font-family: Helvetica, sans-serif;
-    color:#b7b7b7;
+    color: #222;
     flex: 0, 0, 50px;
     padding: 50px;
 }
@@ -10,7 +10,6 @@ img {
 }
 h1 {
     margin: 15px 0;
-    color: #222;
 }
 h2 {
     margin: 10px;
