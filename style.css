@@ -91,10 +91,8 @@ section {
     flex: auto;
 }
 footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
+    flex: 0 0 50px;
+    margin-top: auto;
     text-align: center;
     padding: 5px;
     background-color: DarkSalmon;
