@@ -1,7 +1,7 @@
 body {
     background-color: #ccc;
     font-family: Helvetica, sans-serif;
-    color:#222;
+    color:#b7b7b7;
     flex: 0, 0, 50px;
     padding: 50px;
 }
@@ -70,7 +70,7 @@ nav {
 section {
     display: flex;
     flex: auto;
-    margin: 50px;
+    margin: 20px;
     background-color: #1c1c1c;
 }
 footer {
