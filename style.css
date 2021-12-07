@@ -2,6 +2,8 @@ body {
     background-color: #ccc;
     font-family: Helvetica, sans-serif;
     color:#222;
+    flex: 0, 0, 50px;
+    padding: 50px;
 }
 img {
     width: 100%;
@@ -68,6 +70,8 @@ nav {
 section {
     display: flex;
     flex: auto;
+    margin: 50px;
+    background-color: #1c1c1c;
 }
 footer {
     flex: 0 0 50px; /* keeps the footer at the bottom */
