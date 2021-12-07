@@ -93,3 +93,6 @@ footer {
     background-color: DarkSalmon;
     color: white;
   }
+  .button {
+      border-radius: 50%;
+  }
