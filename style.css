@@ -80,7 +80,7 @@ section {
     color:#b7b7b7;
 }
 footer {
-    flex: 0 0 50px; /* keeps the footer at the bottom */
+    flex: 0 0 5px; /* keeps the footer at the bottom */
     margin-top: auto;
     text-align: center;
     padding: 5px;
