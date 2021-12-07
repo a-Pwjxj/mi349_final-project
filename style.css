@@ -96,3 +96,6 @@ footer {
   a:visited {
       color:#9231de;
   }
+  .minimap_icon {
+      width: 16px;
+  }
