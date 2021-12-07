@@ -74,6 +74,7 @@ section {
     padding: 20px;
     margin-bottom: 20px;
     background-color: #1c1c1c;
+    color:#b7b7b7;
 }
 footer {
     flex: 0 0 50px; /* keeps the footer at the bottom */
