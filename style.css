@@ -47,6 +47,9 @@ nav {
     border-radius: 80%;
     margin-top: 50px;
 }
+.avatar {
+    width: 80px;
+}
 .reference {
     margin: 0;
     padding: 0;
