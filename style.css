@@ -131,3 +131,6 @@ footer {
     grid-column: 2;
     grid-row: 1 / 2;
   }
+  .lore {
+      text-align: center;
+  }
