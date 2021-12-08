@@ -114,6 +114,6 @@ footer {
   }
   #lore_avatar {
       position: sticky;
-      left: 30px;
+      right: 30px;
       top: 20px;
   }
