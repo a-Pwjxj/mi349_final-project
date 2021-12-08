@@ -76,14 +76,14 @@ nav {
 .site_icons {
     max-width: 100%;
 }
-section {
+/* section {
     display: flex;
     flex: auto;
     padding: 20px;
     margin-bottom: 20px;
     background-color: #1c1c1c;
     color:#b7b7b7;
-}
+} */
 footer {
     flex: 0 0 5px; /* keeps the footer at the bottom */
     margin-top: auto;
@@ -104,8 +104,15 @@ footer {
   .minimap_icon {
       width: 32px;
   }
-  article {
+  /* article {
       display: grid;
       grid-template-columns: 1fr;
       grid-gap: 10px;
+  } */
+  section {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 10px;
+      background-color: #1c1c1c;
+      color:#b7b7b7;
   }
