@@ -103,3 +103,8 @@ footer {
   .minimap_icon {
       width: 32px;
   }
+  article {
+      display: grid;
+      grid-teplate-columns: 1fr 1fr;
+      grid-gap: 10px;
+  }
